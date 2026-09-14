@@ -1,0 +1,6 @@
+{
+  "name": "Jackpot Coupon Grabber",
+  "description": "An interactive lucky spin the wheel game to win guaranteed discount coupons between ₹100 and ₹150 in multiples of 5.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
